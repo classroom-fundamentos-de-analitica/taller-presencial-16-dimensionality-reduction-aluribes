@@ -1,2 +1,6 @@
 seaborn
 umap-learn
+scikit-learn
+matplotlib
+pandas
+ipykernel
